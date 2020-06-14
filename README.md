@@ -1,5 +1,5 @@
 # Synapse X
-The **complete**, **unredacted** of the source code to a build of **Synapse X**...
+The **complete**, **unredacted** of the source code to a build of **Synapse X**..
 
 ## What does this contain?
 - The unredacted, complete source code of Synapse X. Should compile as is using Visual Studio 2019.
